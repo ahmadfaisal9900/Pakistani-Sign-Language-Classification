@@ -1,12 +1,12 @@
-# Pakistani Sign Language Recognition using PKSLMM Dataset
+# Pakistani Sign Language Recognition using PkSLMNM Dataset
 
 ## Introduction
-Pakistani Sign Language (PSL) research has been limited due to the scarcity of annotated datasets and comprehensive studies. This project aims to address this gap by utilizing the PKSLMM dataset to develop a robust PSL recognition system. Through data augmentation and advanced deep learning techniques, the system extracts temporal and spatial features from sign videos for accurate classification.
+Pakistani Sign Language (PSL) research has been limited due to the scarcity of annotated datasets and comprehensive studies. This project aims to address this gap by utilizing the PkSLMNM dataset to develop a robust PSL recognition system. Through data augmentation and advanced deep learning techniques, the system extracts temporal and spatial features from sign videos for accurate classification.
 
 ## Features
 
 ### Dataset Preparation
-- Data augmentation and frame extraction from PKSLMM dataset videos.
+- Data augmentation and frame extraction from PkSLMNM dataset videos.
 - Hierarchical directory structure for training, validation, and testing sets.
 
 ### Feature Extraction
