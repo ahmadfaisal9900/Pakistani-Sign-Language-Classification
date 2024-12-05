@@ -36,12 +36,3 @@ The table below summarizes the test accuracy of the model before and after hyper
 |---------------------------------------|-------------------|
 | **Before Hyperparameter Tuning**      | 82.5%             |
 | **After Hyperparameter Tuning**       | 92.7%             |
-
-## Installation
-
-To run this project, clone the repository and install the required dependencies.
-
-```bash
-git clone https://github.com/your-username/pk-sign-language-recognition.git
-cd pk-sign-language-recognition
-pip install -r requirements.txt
