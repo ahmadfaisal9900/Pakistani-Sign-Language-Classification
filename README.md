@@ -3,7 +3,7 @@
 ## Introduction
 Pakistani Sign Language (PSL) research has been limited due to the scarcity of annotated datasets and comprehensive studies. This project aims to address this gap by utilizing the PkSLMNM dataset to develop a robust PSL recognition system. Through data augmentation and advanced deep learning techniques, the system extracts temporal and spatial features from sign videos for accurate classification.
 
-The PjSLMM dataset contains videos of 7 basic affective expressions performed by 100 healthy individuals, presented in an easily accessible format of .MP4 that can be used to train and test systems to make robust models for real-time applications using videos.
+The PkSLMM dataset contains videos of 7 basic affective expressions performed by 100 healthy individuals, presented in an easily accessible format of .MP4 that can be used to train and test systems to make robust models for real-time applications using videos.
 
 ## Features
 
