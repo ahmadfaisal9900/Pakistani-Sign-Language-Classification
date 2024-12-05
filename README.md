@@ -34,7 +34,7 @@ The table below summarizes the test accuracy of the model before and after hyper
 
 | **Model**                             | **Test Accuracy** |
 |---------------------------------------|-------------------|
-| **Before Hyperparameter Tuning**      | 85.2%             |
+| **Before Hyperparameter Tuning**      | 82.5%             |
 | **After Hyperparameter Tuning**       | 92.7%             |
 
 ## Installation
