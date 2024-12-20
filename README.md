@@ -32,7 +32,7 @@ Real-time inference with ViT enables immediate classification of sign language g
     - Display the annotated video stream to the user.
 
 
-## LSTM + ViT Features
+## LSTM Approach and ViT Approach - Features
 
 ### Dataset Preparation
 - Data augmentation and frame extraction from PkSLMNM dataset videos.
