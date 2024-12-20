@@ -5,7 +5,34 @@ Pakistani Sign Language (PSL) research has been limited due to the scarcity of a
 
 The PkSLMM dataset contains videos of 7 basic affective expressions performed by 100 healthy individuals, presented in an easily accessible format of .MP4 that can be used to train and test systems to make robust models for real-time applications using videos.
 
-## Features
+---
+
+## Vision Transformer (ViT) and Real-Time Inference
+
+### Vision Transformer (ViT)
+
+The Vision Transformer (**ViT**) is a cutting-edge deep learning model that processes images by dividing them into patches and treating them as sequences. ViT effectively captures long-range dependencies and spatial features, making it highly effective for image classification tasks.
+
+### Real-Time Inference
+
+Real-time inference with ViT enables immediate classification of sign language gestures from video input. By processing frames on-the-fly, the system delivers quick predictions, suitable for live communication aids and assistive devices.
+
+### Implementation Steps:
+
+1. **Frame Extraction and Preprocessing**:
+    - Extract frames from video input using OpenCV.
+    - Resize and format frames to match the input requirements of ViT.
+
+2. **Model Inference**:
+    - Load the pre-trained ViT model fine-tuned on the PkSLMNM dataset.
+    - Perform inference on each frame to classify sign language gestures in real-time.
+
+3. **Visualization**:
+    - Overlay the predicted sign language labels onto the video frames.
+    - Display the annotated video stream to the user.
+
+
+## LSTM + ViT Features
 
 ### Dataset Preparation
 - Data augmentation and frame extraction from PkSLMNM dataset videos.
